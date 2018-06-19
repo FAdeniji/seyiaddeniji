@@ -53,7 +53,7 @@
 		<!-- menu -->
 		<div class="container">
 			<div class="agile-logo">
-				<h1><a href="index.html">INNOVATIVE-<span>cv</span></a></h1>
+				<h1><a href="index.html">Seyi-<span>Adeniji</span></a></h1>
 			</div>
 			</div>
 			</div>
@@ -65,7 +65,7 @@
 			   <ul class="rslides callbacks callbacks1" id="slider4">
 					<li>	
 						<div class="banner_text_w3layouts">
-							<h3>HI I AM WALLY WEST.</h3>
+							<h3>HI I AM SEYI ADENIJI.</h3>
 							<span> </span>
 							<p>i am photographer </p>
 						</div>
@@ -104,7 +104,7 @@
 					<img src="images/bio.jpg" class="img-responsive" alt=""/>
 				</div> 
 				<div class="col-md-8 col-sm-8 about-right wthree"> 
-					<h2>Hi, i'm <span>Wally West </span></h2>
+					<h2>Hi, i'm <span>Seyi Adeniji </span></h2>
 					<h4>photographer</h4>
 					<ul class="address">
 						<li>
@@ -622,7 +622,7 @@
 
 			<!-- Copyright -->
 			<div class="copyright">
-				<p>&copy; <?php echo date("Y"); ?> Seyi Adeniji . All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank"> W3layouts </a><a href="#home" class="to-top scroll" title="To Top"><span class="fa fa-chevron-up"></span></a></p>
+				<p>&copy; <?php echo date("Y"); ?> Seyi Adeniji . All Rights Reserved | Developed by <a href="http://www.aptmobilesolutions.com" target="_blank"> W3layouts </a><a href="#home" class="to-top scroll" title="To Top"><span class="fa fa-chevron-up"></span></a></p>
 			</div>
 			<!-- //Copyright -->
 
