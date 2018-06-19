@@ -622,7 +622,7 @@
 
 			<!-- Copyright -->
 			<div class="copyright">
-				<p>&copy; 2017 INNOVATIVE-cv . All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank"> W3layouts </a><a href="#home" class="to-top scroll" title="To Top"><span class="fa fa-chevron-up"></span></a></p>
+				<p>&copy; <?php echo date("Y"); ?> Seyi Adeniji . All Rights Reserved | Design by <a href="http://w3layouts.com/" target="_blank"> W3layouts </a><a href="#home" class="to-top scroll" title="To Top"><span class="fa fa-chevron-up"></span></a></p>
 			</div>
 			<!-- //Copyright -->
 
