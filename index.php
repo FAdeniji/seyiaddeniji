@@ -11,11 +11,11 @@
 <!--//meta tags ends here-->
 <!--booststrap-->
 <link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all" >
- 
+
 <!--//booststrap end-->
 
 <!-- font-awesome icons -->
-   <link href="css/font-awesome.css" rel="stylesheet"> 
+   <link href="css/font-awesome.css" rel="stylesheet">
 <!-- //font-awesome icons -->
 <!--stylesheets-->
 <link href="css/style.css" rel='stylesheet' type='text/css' media="all">
@@ -27,7 +27,7 @@
 <!--//style sheet end here-->
 <link href="//fonts.googleapis.com/css?family=Raleway:300,400,500,600,700" rel="stylesheet">
 </head>
-<body>    
+<body>
 
 <div class="agileits_main">
 	<div class="banner" id="home">
@@ -46,7 +46,7 @@
 				<li class="m_nav_item" id="moble_nav_item_2"> <a href="#about">About</a> </li>
 				<li class="m_nav_item" id="moble_nav_item_3"> <a href="#skills">Skills</a> </li>
 				<li class="m_nav_item" id="moble_nav_item_4"> <a href="#portfolio">Portfolio</a> </li>
-				<li class="m_nav_item" id="moble_nav_item_5"> <a href="#education">Qualification</a> </li>
+				<!-- <li class="m_nav_item" id="moble_nav_item_5"> <a href="#education">Qualification</a> </li> -->
 				<li class="m_nav_item" id="moble_nav_item_6"> <a href="#contact">Contact</a> </li>
 			  </ul>
 			</div>
@@ -63,21 +63,21 @@
 		<div class="slider">
 			<div class="callbacks_container">
 			   <ul class="rslides callbacks callbacks1" id="slider4">
-					<li>	
+					<li>
 						<div class="banner_text_w3layouts">
 							<h3>HI I AM SEYI ADENIJI.</h3>
 							<span> </span>
 							<p>i am photographer </p>
 						</div>
 					</li>
-					 <li>	
+					 <li>
 						<div class="banner_text_w3layouts">
 							<h3>I LOVE PHOTOGRAPHY.</h3>
 							<span> </span>
 							<p>I Photograph Models and Nature </p>
 						</div>
 					</li>
-					 <li>	
+					 <li>
 						<div class="banner_text_w3layouts">
 							<h3>CHECK OUT MY PROFILE</h3>
 							<span> </span>
@@ -88,76 +88,74 @@
 			</div>
 
 	   </div>
-	</div>   
-</div>	
+	</div>
+</div>
 <!-- //banner -->
-		</div>	
-			<!-- //header --> 
+		</div>
+			<!-- //header -->
 	<!-- about -->
 	<div class="about" id="about">
 		<div class="container">
 			<div class="w3ls-titlew3l">
 				<h3>About Me</h3>
 			</div>
-			<div class="about-agileinfo"> 
+			<div class="about-agileinfo">
 				<div class="col-md-4 col-sm-4 about-left ">
 					<img src="images/bio.jpg" class="img-responsive" alt=""/>
-				</div> 
-				<div class="col-md-8 col-sm-8 about-right wthree"> 
+				</div>
+				<div class="col-md-8 col-sm-8 about-right wthree">
 					<h2>Hi, i'm <span>Seyi Adeniji </span></h2>
 					<h4>photographer</h4>
 					<ul class="address">
 						<li>
 							<ul class="agileits-address-text ">
 								<li><b>D.O.B :</b></li>
-								<li>23-06-1989</li>
+								<li>31-12-1980</li>
 							</ul>
 						</li>
 						<li>
 							<ul class="agileits-address-text">
 								<li><b>PHONE : </b></li>
-								<li>+00 111 222 3333</li>
+								<li>+234 806 555 8299</li>
 							</ul>
 						</li>
 						<li>
 							<ul class="agileits-address-text">
 								<li><b>ADDRESS :</b></li>
-								<li>756 st hill,south pole,U.S.A</li>
+								<li>4, Oladipo Sessi Close, Magodo GRA</li>
 							</ul>
 						</li>
 						<li>
 							<ul class="agileits-address-text">
 								<li><b>E-MAIL :</b></li>
-								<li><a href="mailto:example@mail.com"> mail@example.com</a></li>
+								<li><a href="mailto:me@seyiadeniji.com"> me@seyiadeniji.com</a></li>
 							</ul>
 						</li>
 						<li>
 							<ul class="agileits-address-text">
 								<li><b>WEBSITE :</b></li>
-								<li><a href="mailto:example@mail.com"> www.myresume.com</a></li>
+								<li><a href="mailto:example@mail.com"> www.seyiadeniji.com</a></li>
 							</ul>
 						</li>
-					</ul> 
+					</ul>
 					<div class="social-wthree-icons">
-						
-							<span class="fa fa-facebook icon" aria-hidden="true"> </span>
-							<span class="fa fa-twitter icon" aria-hidden="true"> </span>
-							<span class="fa fa-google-plus icon"  aria-hidden="true"></span>
-							<span class="fa fa-dribbble icon" aria-hidden="true"></span>
-						<div class="clearfix"> </div>
-					</div> 
-					<div class="hire-w3lgrids">
-						<a href="#" class="wthree-more nina" data-text="DOWNLOAD CV"> 
-							<span>D</span><span>o</span><span>w</span><span>n</span><span>l</span><span>o</span><span>a</span><span>d</span> <span>c</span><span>v</span>					
-						</a> 
-						<a href="#" class="wthree-more w3more1 nina" data-text="hire me"> 
-							<span>h</span><span>i</span><span>r</span><span>e</span> <span>m</span><span>e</span>
-						</a>
-					</div>  
-				</div> 
-				<div class="clearfix"> </div> 
 
-			</div> 
+							<span class="fa fa-facebook icon" aria-hidden="true"> </span>
+							<!-- <span class="fa fa-twitter icon" aria-hidden="true"> </span>
+							<span class="fa fa-google-plus icon"  aria-hidden="true"></span>
+							<span class="fa fa-dribbble icon" aria-hidden="true"></span> -->
+						<div class="clearfix"> </div>
+					</div>
+					<div class="hire-w3lgrids">
+						<!--
+						<a href="#" class="wthree-more w3more1 nina" data-text="hire me">
+							<span>h</span><span>i</span><span>r</span><span>e</span> <span>m</span><span>e</span>
+						</a>-->
+					</div>
+				</div>
+				<div class="clearfix"> </div>
+
+			</div>
 		</div>
 	</div>
 	<!-- //about -->
@@ -169,16 +167,16 @@
 			</div>
 
 			<div class="skill-agileinfo">
-		
+
 				<div class="skill-grids">
 					<div class="col-md-4 col-sm-4 skills-w3lsleft">
 						<h4>Extra Skills</h4>
 						<ul>
-							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>Painting</li>
+							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>Ushering</li>
 							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>writer</li>
-							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>music</li>
+							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>reading</li>
 							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>swimming</li>
-							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>football</li>
+							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>walking</li>
 							<li><span class="fa fa-check-square-o" aria-hidden="true"></span>cooking</li>
 
 						</ul>
@@ -186,36 +184,36 @@
 					<div class="col-md-8 col-sm-8 skills-w3lsright">
 						<h4>Technical Skills</h4>
 						<div class="skillbar" data-percent="98">
-							<span class="skillbar-title" style="background:#e08808;">Photographic</span>
+							<span class="skillbar-title" style="background:#e08808;">Photography</span>
 							<p class="skillbar-bar" style="background: #ff9d0d;"></p>
 							<span class="skill-bar-percent"></span>
 						</div>
-						<!-- End Skill Bar --> 
+						<!-- End Skill Bar -->
 						<div class="skillbar" data-percent="99">
 							<span class="skillbar-title" style="background:#0396d8;">Quality</span>
 							<p class="skillbar-bar" style="background:#03A9F4;"></p>
 							<span class="skill-bar-percent"></span>
 						</div>
-						<!-- End Skill Bar --> 
+						<!-- End Skill Bar -->
 						<div class="skillbar" data-percent="95">
-							<span class="skillbar-title" style="background:#9226a4;">Direction</span>
+							<span class="skillbar-title" style="background:#9226a4;">Video</span>
 							<p class="skillbar-bar" style="background:#b32eca;"></p>
 							<span class="skill-bar-percent"></span>
 						</div>
-						<!-- End Skill Bar --> 
-						<div class="skillbar" data-percent="70">
+						<!-- End Skill Bar -->
+						<div class="skillbar" data-percent="85">
 							<span class="skillbar-title" style="background:#028679;">Edit</span>
 							<p class="skillbar-bar" style="background: #009688;"></p>
 							<span class="skill-bar-percent"></span>
 						</div>
-						<!-- End Skill Bar -->  
+						<!-- End Skill Bar -->
 					</div>
 					<div class="clearfix"></div>
 				</div>
 
-   
-			</div> 
-		</div> 
+
+			</div>
+		</div>
 	</div>
 	<!-- //skills -->
 <!--start-->
@@ -224,27 +222,27 @@
 						<div class="cir_agile_info ">
 									  <div class="skill-grids">
 											<div class="skills-grid text-center">
-												<div class="circle" id="circles-1"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#fd9426" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 0 1 124.17351291284737 140.61106134146232 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">35</span></span><span class="circles-text">%</span></div></div></div>
+												<div class="circle" id="circles-1"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#fd9426" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 0 1 124.17351291284737 140.61106134146232 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">1</span></span><span class="circles-text">%</span></div></div></div>
 												<p>Awards</p>
 											</div>
 											<div class="skills-grid text-center">
-												<div class="circle" id="circles-2"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#fc3158" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 80.05972450330499 154.9999762198876 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">45</span></span><span class="circles-text">%</span></div></div></div>
+												<div class="circle" id="circles-2"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#fc3158" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 80.05972450330499 154.9999762198876 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">10</span></span><span class="circles-text">%</span></div></div></div>
 												<p>Projects</p>
 											</div>
 											<div class="skills-grid text-center">
 												<div class="circle" id="circles-3"><div class="circles-wrp" style="position:relative;display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#53d769" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 35.98377886071055 140.7253841207873 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">55</span></span><span class="circles-text">%</span></div></div></div>
-												
+
 												<p>Followers</p>
 											</div>
 											<div class="skills-grid text-center">
-												<div class="circle" id="circles-4"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#147efb" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 8.704055142281334 103.27849322540312 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">65</span></span><span class="circles-text">%</span></div></div></div>
+												<div class="circle" id="circles-4"><div class="circles-wrp" style="position:relative; display:inline-block;"><svg width="160" height="160"><path fill="transparent" stroke="#ffffff" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 79.89582650464463 5.000072347482458 Z"></path><path fill="transparent" stroke="#147efb" stroke-width="10" d="M 79.98472450972287 5.000001555604044 A 75 75 0 1 1 8.704055142281334 103.27849322540312 "></path></svg><div class="circles-text-wrp" style="position:absolute; top:0; left:0; text-align:center; width:100%; font-size:56px; height:160px; line-height:160px;"><span class="circles-number"><span class="circles-number">20</span></span><span class="circles-text">%</span></div></div></div>
 												<p>Happy clients</p>
 											</div>
-												
-								
-				
+
+
+
 										 <div class="clearfix"></div>
-										
+
 								</div>
 							</div>
                      </div>
@@ -284,7 +282,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-										
+
 											</div>
 										</div>
 									</div>
@@ -297,7 +295,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-											
+
 											</div>
 										</div>
 									</div>
@@ -310,7 +308,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-									
+
 											</div>
 										</div>
 									</div>
@@ -323,7 +321,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-											
+
 											</div>
 										</div>
 									</div>
@@ -336,7 +334,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-											
+
 											</div>
 										</div>
 									</div>
@@ -349,7 +347,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-										
+
 											</div>
 										</div>
 									</div>
@@ -362,7 +360,7 @@
 										<div class="w3layouts_team_grid_pos">
 											<div class="wthree_text">
 												<h4>Fashion</h4>
-											
+
 											</div>
 										</div>
 									</div>
@@ -421,7 +419,7 @@
 							</div>
 							<div class="clearfix"> </div>
 						</div>
-						
+
 						<div role="tabpanel" class="tab-pane fade" id="Mending" aria-labelledby="Mending-tab">
 													<div class="col-md-3 w3layouts_gallery_grid">
 								<a title="Portfolio" href="images/model-1.jpg">
@@ -506,12 +504,12 @@
 
 
 	<!-- education -->
-	<div class="about-education" id="education">
+	<!-- <div class="about-education" id="education">
 		<div class="container">
 			<div class="w3ls-title">
 				<h3>Qualification</h3>
 			</div>
-			<div class="w3-agileits-expinfo">    
+			<div class="w3-agileits-expinfo">
 				<div class="experience-grids">
 					<div class="experience-left">
 						<h6>2010<span>(3 Years)</span> </h6>
@@ -522,7 +520,7 @@
 						<p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
 					</div>
 					<div class="clearfix"> </div>
-				</div> 
+				</div>
 				<div class="experience-grids experience-grids-btm">
 					<div class="experience-left">
 						<h6>2007<span>(3 Years)</span></h6>
@@ -533,7 +531,7 @@
 						<p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
 					</div>
 					<div class="clearfix"> </div>
-				</div>  
+				</div>
 				<div class="experience-grids w3-agileits">
 					<div class="experience-left">
 						<h6>2006</h6>
@@ -544,10 +542,10 @@
 						<p>Itaque earum rerum hic tenetur a sapiente delectus reiciendis maiores alias Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras rutrum iaculis enim, non convallis felis mattis at</p>
 					</div>
 					<div class="clearfix"> </div>
-				</div> 
+				</div>
 			</div>
 		</div>
-	</div>
+	</div> -->
 	<!-- //education -->
 
 
@@ -580,29 +578,30 @@
 		<div class="container">
 
 			<h3>Contact</h3>
-			
+
 
 			<div class="footer-grids">
-		   	  
+
 				<div class="address">
 					<h4>Address</h4>
-				
-							<p><span class="fa fa-map-marker"  aria-hidden="true"></span> 756 global Place</p>
-						    <p><span class="fa fa-map-marker"  aria-hidden="true"></span>south pole,U.S.A</p>
-						
+
+							<p><span class="fa fa-map-marker"  aria-hidden="true"></span> 4, Oladipo Sessi Close</p>
+							<p><span class="fa fa-map-marker"  aria-hidden="true"></span>Off Chief Emmanuel Kessi Street</p>
+							<p><span class="fa fa-map-marker"  aria-hidden="true"></span>Magodo, GRA</p>
+
 				</div>
 
 				<div class=" phone">
 					<h4>Phone</h4>
-					<p><span class="fa fa-phone" aria-hidden="true"></span> +1 (000) 123-4567</p>
-					<p><span class="fa fa-phone" aria-hidden="true"></span> +1 (112) 562-7114</p>
+					<p><span class="fa fa-phone" aria-hidden="true"></span> +234 806 555 8299</p>
+					<p><span class="fa fa-phone" aria-hidden="true"></span> +234 803 485 4660</p>
 				</div>
-              
-			   
+
+
 				<div class=" email">
 					<h4>Email</h4>
-					<p><span class="fa fa-envelope"  aria-hidden="true"></span> <a href="mailto:mail@example.com" class="info"> info@example.com</a></p>
-					<p><span class="fa fa-envelope"  aria-hidden="true"></span> <a href="mailto:mail@example.com" class="info"> info@photos.com</a></p>
+					<p><span class="fa fa-envelope"  aria-hidden="true"></span> <a href="mailto:info@seyiadeniji.com" class="info"> info@seyiadeniji.com</a></p>
+					<p><span class="fa fa-envelope"  aria-hidden="true"></span> <a href="mailto:me@seyiadeniji.com" class="info"> me@seyiadeniji.com</a></p>
 				</div>
 
 				<!-- Newsletter -->
@@ -612,17 +611,17 @@
 				     <span class="fa fa-twitter font-icon" aria-hidden="true"> </span>
 					 <span class="fa fa-google-plus font-icon"  aria-hidden="true"> </span>
 					 <span class="fa fa-dribbble font-icon" aria-hidden="true"> </span>
-					
+
 				</div>
 				<!-- //Newsletter -->
-				
+
 				<div class="clearfix"></div>
-				
+
 			</div>
 
 			<!-- Copyright -->
 			<div class="copyright">
-				<p>&copy; <?php echo date("Y"); ?> Seyi Adeniji . All Rights Reserved | Developed by <a href="http://www.aptmobilesolutions.com" target="_blank"> W3layouts </a><a href="#home" class="to-top scroll" title="To Top"><span class="fa fa-chevron-up"></span></a></p>
+				<p>&copy; <?php echo date("Y"); ?> Seyi Adeniji . All Rights Reserved | Developed by <a href="http://www.aptmobilesolutions.com" target="_blank"> Apt Mobile Solutions </a><a href="#home" class="to-top scroll" title="To Top"><span class="fa fa-chevron-up"></span></a></p>
 			</div>
 			<!-- //Copyright -->
 
@@ -638,7 +637,7 @@
 
 <!--menu script-->
 <script type="text/javascript" src="js/modernizr-2.6.2.min.js"></script>
-<script src="js/bootstrap.min.js"></script>	
+<script src="js/bootstrap.min.js"></script>
 
 <!--Navbar-->
 <script type="text/javascript" src="js/main.js"></script>
@@ -655,21 +654,21 @@
 		<!-- //gallery -->
 
 
-		<!-- Skill Bar js --> 
-	<script src="js/skill.bars.jquery.js"></script> 
-	<script> 
+		<!-- Skill Bar js -->
+	<script src="js/skill.bars.jquery.js"></script>
+	<script>
 	$(document).ready(function(){
-		
+
 		$('.skillbar').skillBars({
 			from: 0,
-			speed: 5000, 
+			speed: 5000,
 			interval: 300,
 			decimals: 0,
 		});
-		
-	}); 
-	</script> 
-	<!-- //End Skill Bar js -->  
+
+	});
+	</script>
+	<!-- //End Skill Bar js -->
 	<!-- /circle-->
 	 <script type="text/javascript" src="js/circles.js"></script>
 					         <script>
@@ -679,7 +678,7 @@
 								for (var i = 1; i <= 7; i++) {
 									var child = document.getElementById('circles-' + i),
 										percentage = 25 + (i * 10);
-										
+
 									Circles.create({
 										id:         child.id,
 										percentage: percentage,
@@ -690,7 +689,7 @@
 										colors:     colors[i - 1]
 									});
 								}
-						
+
 				</script>
 	<!-- //circle -->
 	<!-- start-smoth-scrolling -->
@@ -698,7 +697,7 @@
 			<script type="text/javascript" src="js/easing.js"></script>
 			<script type="text/javascript">
 				jQuery(document).ready(function($) {
-					$(".scroll").click(function(event){		
+					$(".scroll").click(function(event){
 						event.preventDefault();
 						$('html,body').animate({scrollTop:$(this.hash).offset().top},3000);
 					});
@@ -725,9 +724,9 @@
 				  $('.events').append("<li>after event fired.</li>");
 				}
 			  });
-		
+
 			});
-		
+
 </script>
 </body>
 </html>
